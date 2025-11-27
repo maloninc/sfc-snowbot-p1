@@ -1,2 +1,2 @@
-# sfc-snowbot-p1
-SnowFight: Code's SnowBot p1
+# SnowFight: Code's SnowBot p1
+This is a sample code for SnowFight: Code.
